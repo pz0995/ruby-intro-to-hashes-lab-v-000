@@ -1,8 +1,13 @@
 def new_hash
-
+	hash = {}
+	return {}
 end
 
 def actor
+	hash ={
+
+		:name => 'Dwayne The Rock Johnson'
+	}
 	monopoly =  {
 	  :railroads=>
 	  {
